@@ -1,0 +1,1 @@
+Game.rooms['E54N19'].terminal.send(RESOURCE_ENERGY, 50000, 'E56N12');
